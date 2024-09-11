@@ -147,5 +147,9 @@ For a detailed demonstration of this project in action, check out the [Google Dr
 
 ![Short Preview Face Recognition Project](https://github.com/user-attachments/assets/f54c7744-cde5-4d4e-8b33-1d1f7243313e)
 
+## Documentation and Project Report for reference
+[Face_Recognition_Attendance_System_Documentation.docx](https://github.com/user-attachments/files/16967702/Face_Recognition_Attendance_System_Documentation.docx)
+
+
 
 
