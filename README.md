@@ -29,8 +29,8 @@ An innovative Face Recognition-based Attendance System that uses deep learning t
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/your-repo/face-recognition-attendance.git
-    cd face-recognition-attendance
+    git clone https://github.com/Sourabh9267/Face-Recognition-Attendance-System-with-Realtime-Firebase-Integration.git
+    cd Face-Recognition-Attendance-System-with-Realtime-Firebase-Integration
     ```
 
 2. **Install the Required Packages**:
